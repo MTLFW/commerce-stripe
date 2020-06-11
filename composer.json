@@ -1,10 +1,10 @@
 {
-  "name": "craftcms/commerce-stripe",
+  "name": "craftcms/commerce-pay",
   "description": "Stripe integration for Craft Commerce 2 & 3",
   "version": "2.3.0",
   "type": "craft-plugin",
   "keywords": [
-    "stripe",
+    "pay",
     "commerce",
     "craftcms",
     "yii2"
